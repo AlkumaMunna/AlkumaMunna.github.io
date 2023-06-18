@@ -35,7 +35,7 @@ switch (choice) {
         validation("Postal Code", re);
         break;
 
-    default: // else
+    default:
         text = "No option is selected!";
         break;
 }
